@@ -1,0 +1,9 @@
+git push https://exceptionalvic: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@github.com/exceptionalvic/cyber.git main
+
+https://github.com/uforodavid/EndSars_Analysis/blob/main/EndSars.ipynb
+https://github.com/JustAnotherArchivist/snscrape
+https://betterprogramming.pub/how-to-scrape-tweets-with-snscrape-90124ed006af
+
+https://medium.com/dataseries/how-to-scrape-millions-of-tweets-using-snscrape-195ee3594721
+
+https://sparkbyexamples.com/pandas/iterate-over-rows-in-pandas-dataframe/#:~:text=pandas%20DataFrame.,row%5B%22Fee%22%5D%20.
